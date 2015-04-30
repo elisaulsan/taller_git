@@ -1,0 +1,11 @@
+select m.campo1 ,n.campo2 ,m.campo3 ,m.campo4
+from TABLA1 m , TABLA2 n
+where
+
+xxxxxx
+xxxx
+xxxxx
+xxxxx
+x
+
+xxxxxx
